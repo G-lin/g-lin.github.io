@@ -1,0 +1,2 @@
+webpackJsonp([5],{GEm4:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={components:{FootBar:n("Vj6i").a},data:function(){return{}},created:function(){},methods:{}},o={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"home"},[this._v("\n    漫画列表\n    "),e("foot-bar",{attrs:{focus:"2"}})],1)},staticRenderFns:[]};var r=n("VU/8")(s,o,!1,function(t){n("Stls")},null,null);e.default=r.exports},Stls:function(t,e){}});
+//# sourceMappingURL=5.1ce9f251c375df3ea131.js.map

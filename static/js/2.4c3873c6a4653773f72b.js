@@ -1,0 +1,2 @@
+webpackJsonp([2],{ho4r:function(t,e){},"nI+8":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var o={components:{FootBar:n("Vj6i").a},data:function(){return{}},created:function(){},methods:{}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"home"},[this._v("\n    周边列表\n    "),e("foot-bar",{attrs:{focus:"3"}})],1)},staticRenderFns:[]};var s=n("VU/8")(o,r,!1,function(t){n("ho4r")},null,null);e.default=s.exports}});
+//# sourceMappingURL=2.4c3873c6a4653773f72b.js.map

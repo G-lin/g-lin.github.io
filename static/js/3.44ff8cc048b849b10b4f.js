@@ -1,0 +1,2 @@
+webpackJsonp([3],{Tziv:function(e,t){},ueuZ:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={data:function(){return{}},created:function(){},methods:{}},r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"home"},[this._v("\n    漫画详情\n    ")])},staticRenderFns:[]};var u=n("VU/8")(i,r,!1,function(e){n("Tziv")},null,null);t.default=u.exports}});
+//# sourceMappingURL=3.44ff8cc048b849b10b4f.js.map
