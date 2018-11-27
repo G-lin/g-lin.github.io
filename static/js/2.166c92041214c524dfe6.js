@@ -1,0 +1,2 @@
+webpackJsonp([2],{ZsHK:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var o={components:{FootBar:n("Vj6i").a},data:function(){return{}},created:function(){},methods:{}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"home"},[this._v("\n    我的信息\n    "),e("foot-bar",{attrs:{focus:"4"}})],1)},staticRenderFns:[]};var s=n("VU/8")(o,r,!1,function(t){n("rCok")},null,null);e.default=s.exports},rCok:function(t,e){}});
+//# sourceMappingURL=2.166c92041214c524dfe6.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([3],{fylw:function(e,t){},ueuZ:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={data:function(){return{}},created:function(){},methods:{}},u={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"home"},[this._v("\n    漫画详情\n    ")])},staticRenderFns:[]};var s=n("VU/8")(r,u,!1,function(e){n("fylw")},null,null);t.default=s.exports}});
+//# sourceMappingURL=3.0014c8a05203b84d7925.js.map
